@@ -1,0 +1,6 @@
+framework module Pods_Habasa {
+  umbrella header "Pods-Habasa-umbrella.h"
+
+  export *
+  module * { export * }
+}
